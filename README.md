@@ -17,7 +17,7 @@ The 7 Minutes Workout App is a mobile application designed to help users engage 
 4.Run the app and start your workout
 
 #Screenshots form the application
-![Screenshot_20240514_144650](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/1898fed2-af28-4fb5-b526-61ffae4849e9)
-![Screenshot_20240514_144705](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/b526eb15-c509-4bd3-b2ca-c45a10b7f58f)
-![Screenshot_20240514_144711](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/8cb23076-02dc-4b77-acff-ef00c4767394)
-![Screenshot_20240514_144734](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/453860cd-2f1e-498d-a15e-82990a5e4424)
+![Screenshot_20240514_144650](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/1898fed2-af28-4fb5-b526-61ffae4849e9) | ![Screenshot_20240514_144705](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/b526eb15-c509-4bd3-b2ca-c45a10b7f58f) | ![Screenshot_20240514_144711](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/8cb23076-02dc-4b77-acff-ef00c4767394) | ![Screenshot_20240514_144734](https://github.com/abhivrm16/7MinutesWorkout/assets/93922066/453860cd-2f1e-498d-a15e-82990a5e4424)
+
+
+
